@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+    padding: 10px;
+    text-align: center;
+ }
+
+h3{
+    text-align: center;    
+}
